@@ -1,4 +1,4 @@
-This respository contains research code and input data relating to the manuscript "The 2018 Lake Muir earthquake sequence, southwest Western Australia: rethinking Australian stable continental region earthquakes" submitted to the Solid Earth journal (https://www.solid-earth.net/), August 2019.
+This respository contains research code and input data relating to the manuscript "The 2018 Lake Muir earthquake sequence, southwest Western Australia: rethinking Australian stable continental region earthquakes" submitted to the [Solid Earth](https://www.solid-earth.net/) journal, August 2019.
 
 * Lake_Muir_epicentres_original.txt: tab delimited text file with the locations of epicentres from the Lake Muir Sequence temporary deployment.
 * Lake_Muir_epicentres_reloc.txt: tab delimited text file with the locations of epicentres from the Lake Muir Sequence temporary deployment, relocated using the HypoDD double-difference relative location algorithm.
