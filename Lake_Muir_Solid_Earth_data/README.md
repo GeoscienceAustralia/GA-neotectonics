@@ -1,6 +1,7 @@
 This respository contains research code and input data relating to the manuscript "The 2018 Lake Muir earthquake sequence, southwest Western Australia: rethinking Australian stable continental region earthquakes" submitted to the [Solid Earth](https://www.solid-earth.net/) journal, August 2019.
 
-* Lake_Muir_epicentres_original.txt: tab delimited text file with the locations of epicentres from the Lake Muir Sequence temporary deployment.
+* Lake_Muir_epicentres_pre-reloc_catalogue.xlsx microsoft excel file with the locations of epicentres from the Lake Muir Sequence temporary deployment.
+* Lake_Muir_epicentres_first_filter.txt: tab delimited text file with the locations of epicentres from the Lake Muir Sequence temporary deployment following original formation of clusters/links between events.
 * Lake_Muir_epicentres_reloc.txt: tab delimited text file with the locations of epicentres from the Lake Muir Sequence temporary deployment, relocated using the HypoDD double-difference relative location algorithm.
 * Lake_Muir_Trench_DOD.tif: north-south oriented 32 bit geotiff file of the DTM of difference created over the central part of the August 2018 Lake Muir Rupture.
 * Lake_Muir_Tie_DOD.tif: east-west 32 bit geotiff file of the DTM of difference created over the central part of the August 2018 Lake Muir Rupture.
